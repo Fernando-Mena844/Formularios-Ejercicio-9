@@ -1,0 +1,10 @@
+C:\Users\Estudiante\Documents\Ejercicios de formularios\Ejercicio 9\Ejercicio 9\bin\Debug\Ejercicio 9.exe.config
+C:\Users\Estudiante\Documents\Ejercicios de formularios\Ejercicio 9\Ejercicio 9\bin\Debug\Ejercicio 9.exe
+C:\Users\Estudiante\Documents\Ejercicios de formularios\Ejercicio 9\Ejercicio 9\bin\Debug\Ejercicio 9.pdb
+C:\Users\Estudiante\Documents\Ejercicios de formularios\Ejercicio 9\Ejercicio 9\obj\Debug\Ejercicio 9.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Documents\Ejercicios de formularios\Ejercicio 9\Ejercicio 9\obj\Debug\Ejercicio_9.frmCambio.resources
+C:\Users\Estudiante\Documents\Ejercicios de formularios\Ejercicio 9\Ejercicio 9\obj\Debug\Ejercicio_9.Properties.Resources.resources
+C:\Users\Estudiante\Documents\Ejercicios de formularios\Ejercicio 9\Ejercicio 9\obj\Debug\Ejercicio 9.csproj.GenerateResource.cache
+C:\Users\Estudiante\Documents\Ejercicios de formularios\Ejercicio 9\Ejercicio 9\obj\Debug\Ejercicio 9.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Documents\Ejercicios de formularios\Ejercicio 9\Ejercicio 9\obj\Debug\Ejercicio 9.exe
+C:\Users\Estudiante\Documents\Ejercicios de formularios\Ejercicio 9\Ejercicio 9\obj\Debug\Ejercicio 9.pdb
