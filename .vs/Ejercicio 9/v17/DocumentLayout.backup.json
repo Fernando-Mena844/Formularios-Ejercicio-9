@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Estudiante\\Documents\\Ejercicios de formularios\\Ejercicio 9\\",
+  "WorkspaceRootPath": "C:\\Users\\Fernando Mena\\Documents\\Colegio\\Rical\\M\u00F3dulos profe Emerson\\1.3 Dise\u00F1os de aplicaci\u00F3n multimedia\\Formularios\\Formularios-Ejercicio-9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F9CE14F-8263-445A-9D71-69E00BC5C06C}|Ejercicio 9\\Ejercicio 9.csproj|c:\\users\\estudiante\\documents\\ejercicios de formularios\\ejercicio 9\\ejercicio 9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7F9CE14F-8263-445A-9D71-69E00BC5C06C}|Ejercicio 9\\Ejercicio 9.csproj|c:\\users\\fernando mena\\documents\\colegio\\rical\\m\u00F3dulos profe emerson\\1.3 dise\u00F1os de aplicaci\u00F3n multimedia\\formularios\\formularios-ejercicio-9\\ejercicio 9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7F9CE14F-8263-445A-9D71-69E00BC5C06C}|Ejercicio 9\\Ejercicio 9.csproj|solutionrelative:ejercicio 9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9CE14F-8263-445A-9D71-69E00BC5C06C}|Ejercicio 9\\Ejercicio 9.csproj|C:\\Users\\Fernando Mena\\Documents\\Colegio\\Rical\\M\u00F3dulos profe Emerson\\1.3 Dise\u00F1os de aplicaci\u00F3n multimedia\\Formularios\\Formularios-Ejercicio-9\\ejercicio 9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9CE14F-8263-445A-9D71-69E00BC5C06C}|Ejercicio 9\\Ejercicio 9.csproj|solutionrelative:ejercicio 9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9CE14F-8263-445A-9D71-69E00BC5C06C}|Ejercicio 9\\Ejercicio 9.csproj|C:\\Users\\Fernando Mena\\Documents\\Colegio\\Rical\\M\u00F3dulos profe Emerson\\1.3 Dise\u00F1os de aplicaci\u00F3n multimedia\\Formularios\\Formularios-Ejercicio-9\\ejercicio 9\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9CE14F-8263-445A-9D71-69E00BC5C06C}|Ejercicio 9\\Ejercicio 9.csproj|solutionrelative:ejercicio 9\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,15 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Mena\\Documents\\Colegio\\Rical\\M\u00F3dulos profe Emerson\\1.3 Dise\u00F1os de aplicaci\u00F3n multimedia\\Formularios\\Formularios-Ejercicio-9\\Ejercicio 9\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ejercicio 9\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Fernando Mena\\Documents\\Colegio\\Rical\\M\u00F3dulos profe Emerson\\1.3 Dise\u00F1os de aplicaci\u00F3n multimedia\\Formularios\\Formularios-Ejercicio-9\\Ejercicio 9\\Form1.Designer.cs*",
+              "RelativeToolTip": "Ejercicio 9\\Form1.Designer.cs*",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAUwGYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T22:28:33.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Mena\\Documents\\Colegio\\Rical\\M\u00F3dulos profe Emerson\\1.3 Dise\u00F1os de aplicaci\u00F3n multimedia\\Formularios\\Formularios-Ejercicio-9\\Ejercicio 9\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio 9\\Form1.cs",
+              "ToolTip": "C:\\Users\\Fernando Mena\\Documents\\Colegio\\Rical\\M\u00F3dulos profe Emerson\\1.3 Dise\u00F1os de aplicaci\u00F3n multimedia\\Formularios\\Formularios-Ejercicio-9\\Ejercicio 9\\Form1.cs*",
+              "RelativeToolTip": "Ejercicio 9\\Form1.cs*",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T18:01:52.65Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Estudiante\\Documents\\Ejercicios de formularios\\Ejercicio 9\\Ejercicio 9\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Mena\\Documents\\Colegio\\Rical\\M\u00F3dulos profe Emerson\\1.3 Dise\u00F1os de aplicaci\u00F3n multimedia\\Formularios\\Formularios-Ejercicio-9\\Ejercicio 9\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio 9\\Form1.cs",
-              "ToolTip": "C:\\Users\\Estudiante\\Documents\\Ejercicios de formularios\\Ejercicio 9\\Ejercicio 9\\Form1.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\Fernando Mena\\Documents\\Colegio\\Rical\\M\u00F3dulos profe Emerson\\1.3 Dise\u00F1os de aplicaci\u00F3n multimedia\\Formularios\\Formularios-Ejercicio-9\\Ejercicio 9\\Form1.cs [Dise\u00F1o]*",
               "RelativeToolTip": "Ejercicio 9\\Form1.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T17:54:25.279Z",
